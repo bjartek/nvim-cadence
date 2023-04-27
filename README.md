@@ -1,15 +1,10 @@
-# vim-cadence
+# nvim-cadence
 
 Syntax highlighting for the Cadence programming language. A high level programming lanaguage intended for smart contract development.
 
+Modified from upstream with renaming to cdc since nvim recognize that
+
 ### Installation
 
-Install via `vim-plug`:
+Add it using your favorite plugin maanger. 
 
-Add the following line to your `.vimrc` between where you have `vim-plug`defined.
-
-```vim
-Plug 'Cian911/vim-cadence'
-```
-
-Then run `:PlugInstall`.
