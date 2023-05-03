@@ -8,7 +8,7 @@ Modified from upstream with renaming to cdc since nvim recognize that
 
 Add it using your favorite plugin manager. 
 
-In LazyNvim you can do
+In LazyNvim you can put this file into `.config/nvim/lua/plugins/cadence.lua`:
 
 ```lua
 return {
